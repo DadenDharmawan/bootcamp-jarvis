@@ -1,0 +1,18 @@
+.container {
+    margin-top: 3rem;
+    margin-bottom: 3rem;
+}
+
+table {
+    width: 100%;
+}
+
+th {
+    background-color: grey;
+}
+
+th, td {
+    text-align: center;
+    border: 1px solid black;
+    padding: 5px 5px;
+}
