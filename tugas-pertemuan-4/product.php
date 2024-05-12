@@ -70,11 +70,9 @@
                 ];
 
                 array_push($products, $produk);
-        } else {
-            
-        }?>
+            }?>
 
-    <hr>
+        <hr>
         <h1>Daftar Produk</h1>
         <table>
             <th>No</th>
